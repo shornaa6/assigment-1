@@ -21,3 +21,29 @@ text-align: center;
 background-color: rgb(255, 215, 0);
 
 }
+
+.btn-black{
+    border-radius: 8px;
+
+background: rgb(20, 30, 54);
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+padding: 10px;
+}
+
+.hero-bg{
+    background-image: url(/assets/Hero-bg.png);
+    margin-top: 35px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.hero-content{
+    text-align: center;
+}
